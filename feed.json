@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HomeIOT",
+    "description": "",
+    "home_page_url": "https://willerlee.github.io/home-iot-blog",
+    "feed_url": "https://willerlee.github.io/home-iot-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "WL"
+    },
+    "items": [
+    ]
+}
